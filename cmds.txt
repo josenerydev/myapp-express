@@ -1,0 +1,5 @@
+npx knex migrate:latest
+
+npm install dotenv --dev
+
+npm install body-parser --dev
